@@ -1,0 +1,18 @@
+package ${package_name}.service;
+
+import com.javalow.common.base.BaseServiceMock;
+import ${package_name}.mapper.${model}Mapper;
+import ${package_name}.entity.${model};
+import ${package_name}.entity.${model}Example;
+
+/**
+* @Description: (TODO:降级实现${model}Service接口)
+* @author: Satellite
+* @ClassName:  ${modelname}
+* http://www.javalow.com
+* @time: ${ctime}
+*/
+public class ${model}ServiceMock extends BaseServiceMock
+<${model}Mapper, ${model}, ${model}Example> implements ${model}Service {
+
+}

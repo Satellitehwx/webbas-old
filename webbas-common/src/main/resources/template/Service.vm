@@ -1,0 +1,16 @@
+package ${package_name}.service;
+
+import com.javalow.common.base.BaseService;
+import ${package_name}.entity.${model};
+import ${package_name}.entity.${model}Example;
+
+/**
+* @Description: (TODO:${model}Service接口)
+* @author: Satellite
+* @ClassName:  ${model}Service
+* http://www.javalow.com
+* @time: ${ctime}
+*/
+public interface ${model}Service extends BaseService<${model}, ${model}Example> {
+
+}

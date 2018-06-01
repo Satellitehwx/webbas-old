@@ -1,0 +1,23 @@
+package ${package_name}.controller;
+
+import com.javalow.common.base.BaseController;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+/**
+* @Description: (TODO:)
+* @author: Satellite
+* @ClassName:  ${model}Controller
+* http://www.javalow.com
+* @time: ${ctime}
+*/
+@Controller
+@RequestMapping("/${model}Manage")
+public class ${model}Controller extends BaseController {
+
+private static Logger _log = LoggerFactory.getLogger(${model}Controller.class);
+
+
+}
