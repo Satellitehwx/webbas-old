@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/webbas.iml" filepath="$PROJECT_DIR$/.idea/webbas.iml" />
       <module fileurl="file://$PROJECT_DIR$/webbas-common/webbas-common.iml" filepath="$PROJECT_DIR$/webbas-common/webbas-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbas-demo/webbas-demo.iml" filepath="$PROJECT_DIR$/webbas-demo/webbas-demo.iml" />
     </modules>
   </component>
 </project>
