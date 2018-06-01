@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/webbas.iml" filepath="$PROJECT_DIR$/.idea/webbas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbas-common/webbas-common.iml" filepath="$PROJECT_DIR$/webbas-common/webbas-common.iml" />
     </modules>
   </component>
 </project>
