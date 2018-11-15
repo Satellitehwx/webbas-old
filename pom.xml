@@ -21,6 +21,8 @@
     <modules>
         <module>webbas-common</module>
         <module>webbas-demo</module>
+        <module>webbas-javalow</module>
+        <module>webbas-cas</module>
     </modules>
 
 </project>
