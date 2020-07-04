@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webbas-cas:war">
+    <output-path>$PROJECT_DIR$/webbas-cas/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>webbas-cas</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cas.war">
+      <element id="artifact" artifact-name="webbas-cas:war exploded" />
+    </root>
+  </artifact>
+</component>

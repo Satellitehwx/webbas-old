@@ -7,12 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="webbas-common" />
         <module name="webbas-demo" />
+        <module name="webbas-cas" />
+        <module name="webbas-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="webbas" target="1.7" />
+      <module name="webbas-cas" target="1.7" />
       <module name="webbas-common" target="1.7" />
       <module name="webbas-demo" target="1.7" />
     </bytecodeTargetLevel>
